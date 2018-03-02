@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Начало обучения
-category: devops_training
+category: devops-training
 comments: true
 description: Как все начиналось
 tags:
@@ -11,7 +11,6 @@ tags:
 ---
 
 In progress...
-
 ## You shall not pass
 
 В общем, если ты не щупал linux ~~или не владеешь скиллами гугления~~, вряд ли ты попадешь на курс. И так со всеми курсами в этой 

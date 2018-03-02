@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 
-category: devops_training
+category: devops-training
 comments: true
 description: 
 tags:
