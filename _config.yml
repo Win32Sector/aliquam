@@ -23,11 +23,11 @@ title: DevOps path
 disqus: disqus_yz3gynFroL
 
 # Uncomment if deployed locally
-#url: https://localhost:4000
+url: https://localhost:4000
 
 # Set your host if deployed not locally
 # For example "https://yourGitHub.github.io"
-url: devopspath.ru
+#url: devopspath.ru
 
 # Change this to your base URL starting with forward slash if site is in gh-pages branch
 # For example /branchName
