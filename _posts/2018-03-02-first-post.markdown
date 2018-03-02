@@ -3,10 +3,7 @@ layout: post
 title: Первый Пост
 category: devops_training
 comments: true
-description: Этот блог я решил завести как дневник обучения практикам и инструментам DevOps в рамках курса DevOps практики и инструменты https://otus.ru/lessons/devops-praktiki-i-instrumenty/, где буду рассказывать о ходе моего обучения и что из этого получилось. 
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+description: Этот блог я решил завести как дневник обучения практикам и инструментам DevOps в рамках курса DevOps практики и инструменты https://otus.ru/lessons/devops-praktiki-i-instrumenty/, где буду рассказывать о ходе моего обучения и что из этого получилось. [I'm an inline-style link](https://www.google.com) [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 tags:
     - DevOps
     - Learning
