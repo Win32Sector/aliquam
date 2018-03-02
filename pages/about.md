@@ -8,7 +8,7 @@ description: Обо мне
 
 Меня зовут Павел Козлов и я хочу стать DevOps-инженером.
 
-Этот блог - описание моего пути в DevOps.
+Этот блог - описание моего пути в этом направлении.
 
 <a href="https://github.com/Win32Sector"><img src="http://devopspath.ru/resources/images/githublink.png" style="width: 240px;"/></a>
 
