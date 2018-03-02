@@ -1,10 +1,12 @@
 ---
 layout: page
 title: About
-description: More information about me and this website.
+description: Обо мне
 ---
 
-Меня зовут Павел Козлов
+Меня зовут Павел Козлов и я хочу стать DevOps-инженером.
+
+Этот блог - описание моего пути в DevOps.
 ## Напишите мне =)
 
 {% include contact_form.html %}
