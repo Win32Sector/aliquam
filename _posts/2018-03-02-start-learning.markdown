@@ -3,18 +3,20 @@ layout: post
 title: Начало обучения
 category: devops_training
 comments: true
-description: 
+description: Как все начиналось
 tags:
     - DevOps
     - Learning
     - Otus.ru
 ---
 
+In progress...
+
 ## You shall not pass
 
-В общем, если ты не щупал linux или не владеешь скиллами гугления
+В общем, если ты не щупал linux ~~или не владеешь скиллами гугления~~, вряд ли ты попадешь на курс. И так со всеми курсами в этой 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus luctus quam in gravida.
+<!--- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus luctus quam in gravida.
 Mauris rutrum ullamcorper pellentesque. Aliquam posuere euismod erat, ac consequat leo ullamcorper non. 
 Vestibulum commodo nibh justo. Praesent gravida elementum sapien, ut convallis massa bibendum nec.
 Suspendisse interdum urna condimentum quam vestibulum, sit amet feugiat quam laoreet. 
@@ -174,4 +176,4 @@ Inline code: `html`, `css`, `git clone <url>`.
 
 Link text: [more examples](http://www.dennis-grinch.co.uk)
 
-Abbreviation: <abbr title='Content Management System'>CMS</abbr>
+Abbreviation: <abbr title='Content Management System'>CMS</abbr> --->
