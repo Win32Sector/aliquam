@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Начало обучения
 category: devops_training
 comments: true
 description: 
@@ -9,6 +9,10 @@ tags:
     - Learning
     - Otus.ru
 ---
+
+## You shall not pass
+
+В общем, если ты не щупал linux или не владеешь скиллами гугления
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus luctus quam in gravida.
 Mauris rutrum ullamcorper pellentesque. Aliquam posuere euismod erat, ac consequat leo ullamcorper non. 
