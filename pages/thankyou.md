@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Thank You!
+title: Спасибо, что написали
 comments: false
 css: /resources/css/thankyou.css
 ---
 
 # __THANK YOU!__
 
-Your submission was successful, I will contact you shortly.
+Ваше сообщение уже ушло мне на почту. Я вам скоро отвечу.
 
 [Back to main page]({{ site.baseurl }}/index.html)

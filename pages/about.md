@@ -1,6 +1,6 @@
 ---
 layout: page
-title: обо мне
+title: Обо мне
 description: Обо мне
 ---
 
