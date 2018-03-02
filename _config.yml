@@ -4,30 +4,30 @@
 ##########################################
 
 # Set this for Copyright in the footer
-owner: Name Surname
+owner: Pavel Kozlov
 
 # Optional quote in the footer
 # To disable set enable to false
 quote:
-  enable: true
+  enable: false
   quote: Some fancy quote
   author: John Doe
 
 # Set this to your main site title. If page doesn't have its own title,
 # then this title will be used.
-title: Aliquam Theme
+title: DevOps path
 
 
 # Following needed for disqus integration
 # Set your 'disqus' account name
-disqus:
+disqus: disqus_yz3gynFroL
 
 # Uncomment if deployed locally
 #url: https://localhost:4000
 
 # Set your host if deployed not locally
 # For example "https://yourGitHub.github.io"
-url:
+url: devopspath.ru
 
 # Change this to your base URL starting with forward slash if site is in gh-pages branch
 # For example /branchName
@@ -38,7 +38,7 @@ baseurl:
 google_analytics:
 
 # Contact form pupublic key
-contact_PK:
+contact_PK: 1e627c9839d6ecff44b17f30f3e0d842
 
 ##########################################
 #          Optional variables
