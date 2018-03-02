@@ -3,17 +3,14 @@ layout: post
 title: Первый Пост
 category: devops_training
 comments: true
-description: Это первый пост в блоге
+description: Этот блог я решил завести как дневник обучения практикам и инструментам DevOps в рамках курса [DevOps практики и инструменты](https://otus.ru/lessons/devops-praktiki-i-instrumenty/), где буду рассказывать о ходе моего обучения и что из этого получилось. 
 tags:
     - DevOps
     - Learning
     - Otus.ru
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus luctus quam in gravida.
-Mauris rutrum ullamcorper pellentesque. Aliquam posuere euismod erat, ac consequat leo ullamcorper non. 
-Vestibulum commodo nibh justo. Praesent gravida elementum sapien, ut convallis massa bibendum nec.
-Suspendisse interdum urna condimentum quam vestibulum, sit amet feugiat quam laoreet. 
+Этот блог я решил завести как дневник обучения практикам и инструментам DevOps в рамках курса [DevOps практики и инструменты](https://otus.ru/lessons/devops-praktiki-i-instrumenty/), где буду рассказывать о ходе моего обучения и что из этого получилось. 
 
 
 >The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency.
