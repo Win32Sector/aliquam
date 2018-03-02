@@ -10,7 +10,7 @@ tags:
     - Otus.ru
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus luctus quam in gravida.
+<!--- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus luctus quam in gravida.
 Mauris rutrum ullamcorper pellentesque. Aliquam posuere euismod erat, ac consequat leo ullamcorper non. 
 Vestibulum commodo nibh justo. Praesent gravida elementum sapien, ut convallis massa bibendum nec.
 Suspendisse interdum urna condimentum quam vestibulum, sit amet feugiat quam laoreet. 
@@ -170,4 +170,4 @@ Inline code: `html`, `css`, `git clone <url>`.
 
 Link text: [more examples](http://www.dennis-grinch.co.uk)
 
-Abbreviation: <abbr title='Content Management System'>CMS</abbr>
+Abbreviation: <abbr title='Content Management System'>CMS</abbr> --->
