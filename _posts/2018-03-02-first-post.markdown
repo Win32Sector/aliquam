@@ -3,7 +3,7 @@ layout: post
 title: Первый Пост
 category: devops_training
 comments: true
-description: Этот блог я решил завести как дневник обучения практикам и инструментам DevOps в рамках курса DevOps практики и инструменты https://otus.ru/lessons/devops-praktiki-i-instrumenty/, где буду рассказывать о ходе моего обучения и что из этого получилось. [I'm an inline-style link](https://www.google.com) [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+description: Этот блог я решил завести как дневник обучения практикам и инструментам DevOps в рамках курса DevOps практики и инструменты от otus.ru и Express42, где буду рассказывать о ходе моего обучения и что из этого получилось.
 tags:
     - DevOps
     - Learning
@@ -12,159 +12,20 @@ tags:
 
 Этот блог я решил завести как дневник обучения практикам и инструментам DevOps в рамках курса [DevOps практики и инструменты](https://otus.ru/lessons/devops-praktiki-i-instrumenty/), где буду рассказывать о ходе моего обучения и что из этого получилось. 
 
+### Постановка цели
 
->The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency.
-><footer><cite> - Bill Gates</cite></footer>
-{: .blockquote cite="http://www.worldwildlife.org/who/index.html" }
+В самом начале пути принято ставить цель. Поэтому, главное, чего хочу добиться по окончанию курса обучения:
 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
-Nunc orci purus, egestas a erat pulvinar, fringilla sodales turpis. Fusce luctus eu eros at maximus. 
+1. Освоить современные DevOps практики и инструменты;
+2. Получить возможность сменить работу;
+3. Найти единомышленников и вырасти глядя на них.
 
-## This is h2 header
+### Кто я такой, с чем я стартовал и почему этот курс
 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
-Nunc orci purus, egestas a erat pulvinar, fringilla sodales turpis. Fusce luctus eu eros at maximus. 
+Меня зовут Павел Козлов и я системный администратор. Мне 30 лет. Работаю в компании не связанной с IT от слова никак и это сильно печалит. В основном мой прфоессиональный путь - это саппорт и администрирование сервисов в Windows экосистеме. С Linux опыт скромный - несколько поднятых серверов без всяких там хайлоадов и 3 месяца работы младшим linux-админом. Хочу заниматься интересными крутыми штуками и чувствовать, что делаю действительно важное дело, за которое платят деньги. 
 
+Данный блог завел, чтобы упорядочивать все, чему научился на курсе (может быть курсах), и рассказывать, что и как, может кому-то будет интересно, но, делаю это для себя в первую очередь.
 
-<a name="definition-dfa"></a>
-{: .bottomless }
+Обещаю не палить методички, видео курсов и все такое, дабы не было претензий со стороны школы [Otus](https://otus.ru) и спойлеров. Но при этом, буду пытаться рассказать как оно все выглядит изнутри и какие впечатления, плюсы/минусы.
 
-{::options parse_block_html="true" /}
-
-<div class="env-header">
-Definition {{ site.definitions[0].number }} 
-</div>
-
-<div class="definition alert">
-{{ site.definitions[0].content }}
-</div>
-
-{::options parse_block_html="false" /}
-
-
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
-Nunc orci purus, egestas a erat pulvinar, fringilla sodales turpis. Fusce luctus eu eros at maximus. 
-
-{::options parse_block_html="true" /}
-
-<div class="info alert">
-**INFO:** This is info message. `This is code`. [This is link](#). _This is italic_.
-</div>
-
-Class aptent taciti sociosquad litora torquent per conubia nostra, per inceptos himenaeos. 
-
-<div class="warning alert">
-**WARNING:** This is warning message. `This is code`. [This is link](#). _This is italic_.
-</div>
-
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
-
-<div class="note alert">
-**NOTE:** This is note message. `This is code`. [Definition 1.0](#definition-dfa). _This is italic_.
-</div>
-
-<div class="success alert">
-#### This is success message! ####
-
-`This is code`. [This is link](#). _This is italic_.
-
-Mauris sed augue molestie, git clone ac consequat erat posuere. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur odio sapien, sollicitudin ut pharetra in, tincidunt vel elit.
-
-* List item number 1
-    * Nested list item number 1
-    * Curabitur pharetra eget ante at vestibulum. Mauris ullamcorper lacus sed augue molestie, ac consequat erat posuere.
-* List item number 2
-* List item number 3
-
-Curabitur pharetra eget ante at vestibulum.  
-</div>
-
-{::options parse_block_html="false" /}
-
-### This is h3 header
-
-Curabitur pharetra eget ante at vestibulum. Mauris ullamcorper lacus sed augue molestie, ac consequat erat posuere. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur odio sapien, sollicitudin ut pharetra in, tincidunt vel elit.
-
-<div class="env-header">HTML/CSS</div>
-{% highlight html linenos %}
-<!DOCTYPE html>
-<html>
-<head>
-   <style>
-      p {
-          border-style: solid;
-          border-bottom: thick dotted #ff0000;
-        }
-   </style>
-</head>
-<body>
-    <p>This is some text in a paragraph.</p>
-</body>
-</html>
-{% endhighlight %}
-
-
-Class aptent taciti `sociosqu ad litora torquent` per conubia nostra, per inceptos himenaeos. 
-Nunc orci purus, egestas a erat pulvinar, fringilla sodales turpis. `Fusce luctus` eu eros at maximus. 
-
-- List item number 1
-    - Nested list item 1
-    - Nested list item 2
-        - Deep nested list item 1ante at vestibulum. Mauris ullamcorper lacus sed augue molestie.
-        - Deep nested list item 2
-    - Nested list item number 3
-- List item number 3
-
-1. List item number 1
-    1. Nested list item number 1
-    2. Curabitur pharetra eget ante at vestibulum. Mauris ullamcorper lacus sed augue molestie, ac consequat erat posuere.
-2. List item number 2
-3. List item number 3
-
-
-#### This is h4 header
-
-Curabitur pharet<sub>r</sub>a eget ante at vestibulum. Mauris ullamcorper lacus sed augue molestie, ac consequat erat posuere. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur odio sapien, sollicitudin ut pharetra in, tincidunt vel elit.
-
-{::options parse_block_html="true" /}
-
-<figure class="table">
-
-| Header One     | Header Two | Header Three | Head |
-| ------------- | ------------- | ----------- | -------- |
-| Item One       | Item Two       | Item Three   | Long Item Four   |
-| Item One       | Item Two       | Item Three   | Long Item Four   |
-| Item One       | Item Two       | Item Three   | Long Item Four   |
-| Item One       | Item Two       | Item Three   | Long Item Four   |
-| Item One       | Item Two       | Item Three   | Long Item Four   |
-| Item One       | Item Two       | Item Three   | Long Item Four   |
-| Item One       | Item Two       | Item Three   | Long Item Four   |
-
-<figcaption>
-**Table 1:** Eestie, ac consequat erat posuere. 
-</figcaption>
-</figure>
-
-{::options parse_block_html="false" /}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus luctus quam in gravida.
-Mauris rutrum ullamcorper pellentesque. Aliquam posuere euismod erat, ac consequat leo ullamcorper non. 
-
-ac consequat erat posuere. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur odio sapien, sollicitudin ut pharetra in, tincidunt vel elit.
-
-<figure>
-<img alt="image test" src="/resources/images/main_front.jpg"/>
-<figcaption>
-<strong>Figure 1: </strong>Curabitur pharetra eget ante at vestibulum. Mauris ullamcorper lacus sed augue molestie, ac consequat erat posuere. 
-</figcaption>
-</figure>
-
-Bold text: __I am bold__
-
-Italic text: *I am italic*
-
-Inline code: `html`, `css`, `git clone <url>`.
-
-Link text: [more examples](http://www.dennis-grinch.co.uk)
-
-Abbreviation: <abbr title='Content Management System'>CMS</abbr>
+**ПОЕХАЛИ!**
