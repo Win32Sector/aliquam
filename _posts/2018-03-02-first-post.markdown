@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Первый Пост
-category: devops training
+category: devops_training
 comments: true
 description: Это первый пост в блоге
 tags:
