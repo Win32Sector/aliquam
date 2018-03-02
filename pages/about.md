@@ -4,7 +4,7 @@ title: Обо мне
 description: Обо мне
 ---
 
-![alt text](http://devopspath.ru/resources/images/author.jpg "Это я") Меня зовут Павел Козлов и я хочу стать DevOps-инженером.
+![](http://devopspath.ru/resources/images/author.jpg =250px) Меня зовут Павел Козлов и я хочу стать DevOps-инженером.
 
 Этот блог - описание моего пути в DevOps.
 ## Напишите мне
