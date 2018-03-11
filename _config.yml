@@ -20,14 +20,14 @@ title: DevOps path
 
 # Following needed for disqus integration
 # Set your 'disqus' account name
-disqus: http-devopspath-ru
+#disqus: http-devopspath-ru
 
 # Uncomment if deployed locally
-#url: https://localhost:4000
+url: http://localhost:4000
 
 # Set your host if deployed not locally
 # For example "https://yourGitHub.github.io"
-url: http://devopspath.ru
+#url: http://devopspath.ru
 
 # Change this to your base URL starting with forward slash if site is in gh-pages branch
 # For example /branchName
