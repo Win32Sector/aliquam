@@ -13,12 +13,11 @@ tags:
 
 Процесс выглядит следующим образом:
 
-```
-gcloud dns --project=<project_name> record-sets transaction start --zone=<zone_name>
 
-gcloud dns --project=<project_name> record-sets transaction remove <OLD_IP> --name=<dns_name>. --ttl=300 --type=A --zone=<zone_name>
+> gcloud dns --project=<project_name> record-sets transaction start --zone=<zone_name>
 
-gcloud dns --project=<project_name> record-sets transaction add <NEW_IP> --name=<dns_name>. --ttl=300 --type=A --zone=<zone_name>
+> gcloud dns --project=<project_name> record-sets transaction remove <OLD_IP> --name=<dns_name>. --ttl=300 --type=A --zone=<zone_name>
 
-gcloud dns --project=<project_name> record-sets transaction execute --zone=<zone_name>
-```
+> gcloud dns --project=<project_name> record-sets transaction add <NEW_IP> --name=<dns_name>. --ttl=300 --type=A --zone=<zone_name>
+
+> gcloud dns --project=<project_name> record-sets transaction execute --zone=<zone_name>
