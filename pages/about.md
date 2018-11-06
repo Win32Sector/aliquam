@@ -6,7 +6,7 @@ description: Обо мне
 
 <img src="http://devopspath.ru/resources/images/author.jpg" style="width: 240px;"/>
 
-Меня зовут Павел Козлов. Я хочу стать DevOps-инженером.
+Меня зовут Павел Козлов. Я Linux администратор в отделе DevOps.
 
 Этот блог - описание моего пути в этом направлении.
 
