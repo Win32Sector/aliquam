@@ -34,7 +34,9 @@ Teamcity - прекрасный инстурмент автоматизации,
 
 Потом, нужно курлом передать эту xml в buildQueue Teamcity
 
-`curl -v -u user:password http://teamcity.server.url:8111/app/rest/buildQueue --request POST --header "Content-Type:application/xml" --data-binary @build.xml`
+```
+curl -v -u user:password http://teamcity.server.url:8111/app/rest/buildQueue --request POST --header "Content-Type:application/xml" --data-binary @build.xml
+```
 
 В целом, билд степ SSH Exec, дергающий билд по его ID и передающий некоторую переменную, у меня выглядит так:
 
