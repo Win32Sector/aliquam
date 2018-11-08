@@ -5,7 +5,6 @@ category: article
 comments: true
 description: Как с помощью ls увидеть содержимое текстового файла
 tags:
-    - DevOps
     - Дичь
 
 ---
