@@ -10,7 +10,7 @@ My name is Pavel Kozlov. I am Linux administrator/DevOps.
 
 This blog about me and my path in DevOps and Linux administration.
 
-About my skills:
+## About my skills:
 
 OS: Linux RedHat(CentOS)/Debian(Ubuntu)
 
