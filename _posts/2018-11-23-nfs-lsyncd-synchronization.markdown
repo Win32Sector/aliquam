@@ -189,6 +189,17 @@ systemctl start lsyncd
 systemctl enable lsyncd
 ```
 
+## Тюнинг ядра
+
+Также, для того, чтобы inotify смог отслеживать большое количество каталогов, необходимо увеличить значения параметров ядра 
+
+```
+echo "
+fs.inotify.max_user_watches = 16777216  
+fs.inotify.max_queued_events = 65536
+" >> /etc/sysctl.conf
+```
+
 Если все сделано правильно, файлы должны синхронизироваться.
 
 Далее, можно и нужно настроить мониторинг службы lsyncd с помощью monit, например, поэтому мануалу https://itldc.com/blog/monit-monitoring или какому-то другому.
