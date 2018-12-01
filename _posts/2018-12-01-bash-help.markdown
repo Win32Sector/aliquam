@@ -165,8 +165,6 @@ getopts mt: option
 
 ![alt text](http://devopspath.ru/resources/images/getopts.png")
 
-
-
 ### Ввод данных
 
 ```
