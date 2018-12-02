@@ -69,7 +69,7 @@ tags:
 
 ```
     - отрицание
-    [ ! -e "$filename" ] - вернет true, если вайл не существует
+    [ ! -e "$filename" ] - вернет true, если файл не существует
     [ ! "$x1" != "$x2" ]
 
     - AND -a
@@ -117,12 +117,15 @@ esac
         run $file
     done
 
+
     for var
     do
 
     done 
 
+    
     тоже самое, что
+
 
     for var in "$@"
     do
