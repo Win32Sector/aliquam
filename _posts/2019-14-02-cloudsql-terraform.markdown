@@ -5,7 +5,7 @@ category: article
 comments: true
 description: Поднимаем CloudSQL instance в Google cloud с помощью Terraform
 tags:
-    - google cloud
+    - googlecloud
     - terraform
     - cloudsql
 ---
