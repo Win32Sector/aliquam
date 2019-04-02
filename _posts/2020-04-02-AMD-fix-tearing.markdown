@@ -20,6 +20,6 @@ Section "Device"
     Driver "amdgpu"
     Option "TearFree" "true"
 EndSection
-
 ```
 
+Про остальные видеокарты можно тут узнать https://tehnojam.pro/category/software/kak-ubrat-razryvy-jekrana-tiring-v-linux.html
