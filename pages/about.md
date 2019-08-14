@@ -28,7 +28,7 @@ CI/CD tools: GitLab, Teamcity, Jenkins, bitbucket
 
 Automation: bash-scripts, python-scripts
 
-Monitoring: Zabbix, atop, Monit, New Relic, DataDog, Prometheus
+Monitoring: Zabbix, ELK Stack, Monit, New Relic, DataDog, Prometheus
 
 Network: VLAN, VPN, Routing
 
