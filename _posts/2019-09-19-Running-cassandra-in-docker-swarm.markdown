@@ -139,7 +139,6 @@ services:
 
 networks:
   cassandra:
-    driver: overlay
     external:
      name: cassandra-net
 ```
