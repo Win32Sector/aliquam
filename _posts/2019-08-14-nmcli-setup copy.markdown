@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Настройка сететвого соединения со статическим адресом в CentOS c помощью nmcliы
+title: Настройка сетевого соединения со статическим адресом в CentOS c помощью nmcliы
 category: article
 comments: true
-description: Настройка сететвого соединения со статическим адресом в CentOS c помощью nmcli
+description: Настройка сетевого соединения со статическим адресом в CentOS c помощью nmcli
 tags:
     - Linux
     - Склерозник
 ---
 
-## Настройка сететвого соединения со статическим адресом в CentOS c помощью nmcli
+## Настройка сетевого соединения со статическим адресом в CentOS c помощью nmcli
 
 Смотрим имеющиеся соединения
 ```
@@ -26,7 +26,7 @@ nmcli con add type ethernet con-name eno14082019 ifname enp0s3 ip4 192.168.1.50/
 Добавляем DNS-ы
 
 ```
-nmcli con mod static2 ipv4.dns "8.8.8.8 8.8.4.4"
+nmcli con mod eno14082019 ipv4.dns "8.8.8.8 8.8.4.4"
 ```
 
 DNS-ы выставляем наши
